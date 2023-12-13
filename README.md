@@ -1,7 +1,7 @@
 # Miles to Kilometer Converter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.x-darkblue.svg)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.8-darkblue.svg)](https://www.python.org/downloads/)
 ![Version](https://img.shields.io/badge/version-v1.0-brightgreen)
 
 ## Overview
@@ -10,7 +10,7 @@ This simple GUI application, `main.py`, allows users to input a distance in mile
 
 ## Requirements
 
-- Python 3.x
+- Python 3.8
 - Tkinter (usually included with Python installations)
 
 ## Usage
